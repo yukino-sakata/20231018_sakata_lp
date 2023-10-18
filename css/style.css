@@ -423,9 +423,16 @@ h4 {
 }
 
 .contact__text {
-    margin: 50px;
+    margin-top: 50px;
     font-weight: 600;
     font-size: 14px;
+}
+
+.contact__line {
+    background-color: #B31667;
+    width: 1.5px;
+    height: 30px;
+    margin: 15px auto;
 }
 
 .contact-btn {
